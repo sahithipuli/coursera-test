@@ -13,6 +13,7 @@ h1{
     width:100%;
 }
 p{
+    font-size:16px;
     position:relative;
     border:1px solid black;
     background-color: grey;
@@ -25,6 +26,7 @@ p{
    
 
 #bg1{
+    font-size:20px;
     position: absolute;   
     top:0;
     right:0;
@@ -32,6 +34,7 @@ p{
     background-color:burlywood;
 }
 #bg2{
+    font-size:20px;
     position: absolute; 
     top:0;
     right: 0;
@@ -39,6 +42,7 @@ p{
     background-color:burlywood;
 }
 #bg3{
+    font-size:20px;
     position: absolute;
     top:0;
     right:0;
